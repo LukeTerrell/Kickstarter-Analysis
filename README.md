@@ -13,12 +13,12 @@ For this analysis, I used a series of 'COUNTIFS' equations to limit the specific
 ### Challenges and Difficulties Encountered
 While completing my analysis of the information, I did encounter difficulty using the "COUNTIF" equation in excel. I found myslef attempting to use too many parameters within the equation to accomplish pulling the data I wanted. I later discovered the another equation "COUNTIFS" would accomplish what I wanted in a single equation. This allowed me to easily pull the data and information I needed for my analysis.
 ## Results
-From the analysis of Outcomes Based on Launch Dates, we can make a couple of conclusions. The first of which is more successful campaigns for Plays are started in May. Both the data itself and the trend line demonstrated by the I created below shows that overwhelmingly more successful campaigns occur in May. However, it would appear the summer months, May, June, and July are all much more favorable time to begin Kickstarter campaigns for Plays. The data clearly shows these three months are the best time of the year to begin a fundraiser.
+From the analysis of Outcomes Based on Launch Dates, we can make a couple of conclusions. The first of which is more successful campaigns for Plays are started in May. Both the data itself and the trend line demonstrated by the I created below shows that overwhelmingly more successful campaigns occur in May. However, it would appear the summer months May, June, and July are all much more favorable time to begin Kickstarter campaigns for Plays. The data clearly shows these three months are the best time of the year to begin a fundraiser for Plays.
 
-Kickstarter-Analysis/Resources/Theater_Outcomes_vs_Launch.png
+![](Resources/Theater_Outcomes_vs_Launch.png)
 
-Kickstarter-Analysis/Resources/Outcomes_vs_Goals.png
+The analysis of the Outcomes Based on Goals, demonstrated how different goals could attribute to the outcome of the campaign. The data indicated, as seen in the graph below, that most campaigns were successful under $5,000. While the data might suggest that campaigns in the $35,000 to $45,000 range are also more succesful than other goals, the amount of campaigns that have been runs in that range is very small. Because of this, it is difficult to ascertain if that would be a legitamate conclusion from the dataset.
 
-The analysis of the Outcomes Based on Goals, demonstrated how different goals could attribute to the outcome of the campaign. The data indicated, as seen in the graph above, that most campaigns were successful under $5,000. While the data might suggest that campaigns in the $35,000 to $45,000 range are also more succesful than other goals, the amount of campaigns that have been runs in that range is very small. Because of this, it is difficult to ascertain if that would be a legitamate conclusion from the dataset.
+![](Resources/Outcomes_vs_Goals.png)
 
 Despite our best analyses, the data we collected is limited. More information about the higher dollar goals would help create a more consistent trend line than the one in the Goals_vs_Outcomes.png. We could also create a table that would break down the success rate among the months of the year and the value of the goal. By breaking down that information month to month we could see if the success rate in May is related to the value of the goals in May.
